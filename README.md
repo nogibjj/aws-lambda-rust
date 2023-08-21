@@ -2,6 +2,9 @@
 
 Demos on Rust AWS Lambda (use Cargo Lambda it is AMAZING).
 
+![1 15-polars-rust-lambda](https://github.com/nogibjj/aws-lambda-rust/assets/58792/9aab45dd-db78-4ca5-ae36-7f98f3ba9be4)
+
+
 ## References
 
 * [Cargo Lambda](https://www.cargo-lambda.info/)
