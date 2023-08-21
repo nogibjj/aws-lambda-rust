@@ -32,6 +32,8 @@ async fn function_handler(event: LambdaEvent<Request>) -> Result<Response, Error
     Ok(resp)
 }
 
+// The main function is the entry point of the program.
+// It returns a Result type, which is either Ok or Err.
 #[tokio::main]
 async fn main() -> Result<(), Error> {
     tracing_subscriber::fmt()
