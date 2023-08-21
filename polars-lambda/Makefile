@@ -32,7 +32,7 @@ deploy:
 
 ### Invoke on AWS
 aws-invoke:
-	cargo lambda invoke --remote rust-add --data-ascii "{ \"x\": 1, \"y\": 2 }"
+	cargo lambda invoke --remote polars-lambda --data-ascii "{ \"filter\": 5.0}"
 
 run:
 	cargo run
