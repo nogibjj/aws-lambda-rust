@@ -8,6 +8,7 @@ Demos on Rust AWS Lambda (use Cargo Lambda it is AMAZING).
 ## References
 
 * [Cargo Lambda](https://www.cargo-lambda.info/)
+* [Rust Runtime for AWS Lambda](https://github.com/awslabs/aws-lambda-rust-runtime)
 * [http-axum-example](https://github.com/awslabs/aws-lambda-rust-runtime/tree/main/examples/http-axum)
 * Watch on [O'Reilly](https://learning.oreilly.com/videos/rust-aws-lambda/08182023VIDEOPAIML/)
 
